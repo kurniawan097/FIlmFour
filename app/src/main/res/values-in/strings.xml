@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FilmSubmitFour</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_movie">Acara TV</string>
+
+    <string name="user_score">Skor Pengguna :</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="top_cast">Pemain Utama :</string>
+    <string name="overview">Deskripsi</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="first_air_date">Hari Pertama Tayang :</string>
+    <string name="home">Beranda</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_to_favorite">Tambah ke favorit</string>
+
+    <string name="add_movie_to_favorite_success">Film berhasil ditambahkan ke daftar favorit</string>
+    <string name="add_tv_movie_to_favorite_success">Acara TV berhasil ditambahkan ke daftar favorit</string>
+    <string name="remove_movie_from_favorite_success">Film berhasil dihapus dari daftar favorit</string>
+    <string name="remove_tv_from_favorite_success">Acara TV berhasil dihapus dari daftar favorit</string>
+
+</resources>

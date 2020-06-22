@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FilmSubmitFour</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_movie">TV Movie</string>
+
+    <string name="user_score">User Score :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="first_air_date">First Air Date :</string>
+    <string name="top_cast">Top Cast :</string>
+    <string name="overview">Overview</string>
+    <string name="change_language">Change Language</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+
+    <string name="add_movie_to_favorite_success">Add movie to favorite success</string>
+    <string name="add_tv_movie_to_favorite_success">Add TV Show to favorite success</string>
+    <string name="remove_movie_from_favorite_success">Remove movie from favorite success</string>
+    <string name="remove_tv_from_favorite_success">Remove TV show from favorite success</string>
+</resources>
